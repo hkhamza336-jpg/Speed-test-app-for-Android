@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Speed Test</string>
+    <string name="app_name">Speed Test App</string>
+    <string name="start_test">Start Speed Test</string>
+    <string name="testing">Testing...</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="ping">Ping</string>
+    <string name="mbps">Mbps</string>
+    <string name="ms">ms</string>
+    <string name="progress">Progress</string>
+    <string name="error">Error</string>
 </resources>

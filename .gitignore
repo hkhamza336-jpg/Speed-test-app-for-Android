@@ -1,18 +1,35 @@
-*.iml
-.gradle
-.kotlin
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
 local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Compiled classes
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Lint
+lint-results*
+lint-results.xml
+
+# Signing files
+*.keystore
+*.jks
+
+# Environment variables
 .env
-debug.keystore
