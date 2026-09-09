@@ -1,0 +1,6 @@
+{
+  "name": "Speed Test",
+  "description": "Real-time network speed testing with live download, upload, ping, jitter gauges and test history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
